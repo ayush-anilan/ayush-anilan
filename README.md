@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayush Anilan</h1>
 <h3 align="center">An aspiring Full Stack Developer with a passion for creating dynamic and responsive web applications.</h3>
 
-- 🌱 I’m currently learning **Advanced React and Node.js, Exploring Java, Spring (IoC), and Hibernate**
+- 🌱 I’m currently learning **Advanced React and Node.js, Exploring Java, Spring boot, and Hibernate**
 
 - 📫 How to reach me **ayushanilan369@gmail.com**
 
